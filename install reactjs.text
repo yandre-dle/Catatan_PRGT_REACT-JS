@@ -1,0 +1,26 @@
+install reactjs
+
+npm install -g create-react-app //login sbg root
+create-react-app <projectname>
+create-react-app react-lesson
+
+cd <projectname>
+cd react-lesson
+
+npm start
+
+---->
+
+check versi reactjs
+
+npm view react version
+npm view react-native version
+
+---->
+
+jika ada error di reactjs
+
+npm update
+npm audit fix --force
+npm audit fix
+
